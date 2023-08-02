@@ -39,4 +39,4 @@ chatGPT("Explain how nice the beach is today",
         "You are a helpful assistant, that's also a cool surfer dude") |> cat()
 
 chatGPT("What does your planet look like?",
-        "You are a organism that lives in a far away universe") |> cat()
+        "You are a organism that lives on a far away imaginary planet") |> cat()
